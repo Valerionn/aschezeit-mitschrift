@@ -74,16 +74,16 @@ Es gibt ein Elfendorf in der Nähe, aber evtl. sind sie dort rassistisch. Elfend
 
 Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonfläche".
 
-* Smibb öffnet das Portal: Wirbelnder Nebel aus Silber & Gold
+* Smibb öffnet das Portal: wirbelnder Nebel aus Silber & Gold
 * komische, heiße Energie aus dem Portal
 * wir gehen durch!
-* Wir landen in 6m breitem Gang, Tunnelwände aus gehärteter Lava, Wände: winzige Risse, mit feurigem Licht durchscheinend
+* Wir landen in 6 m breitem Gang, Tunnelwände aus gehärteter Lava, Wände: winzige Risse, mit feurigem Licht durchscheinend
 * Luft riecht nach Rauch, unangenehmer Raum, mit großem Zahn: Rauch, wobei sich darin etwas bewegt
 * Drache aus Feuer erscheint! - related zum Gott der Zerstörung
-* Wir beten zu Apsu und versuchen, die Falle zu entschärfen...funktioniert aber nicht besonders gut
+* Wir beten zu Apsu und versuchen, die Falle zu entschärfen - funktioniert aber nicht besonders gut
 * LAZGAR BETET ERFOLGREICH HOLY SHIT ENDLICH!!!
 * Tunnel-Feuer verschwindet
-* Geschmolzene Steine am Boden & Wände erinnern an das geschmolzene Portal...andere Symbole sind auch sichtbar, aber nicht genau erkennbar
+* Geschmolzene Steine am Boden & Wände erinnern an das geschmolzene Portal. Andere Symbole sind auch sichtbar, aber nicht genau erkennbar
 
 ### Das Mwangi-Becken
 * Wir sind in einem Ring aus rußgeschwärzten Steinbögen, Kreis aus Portalen, aber alle anderen sind leer
@@ -104,13 +104,13 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Drachenkopf ist magisch, sonst nichts!
 * Drachenkopf war in Ritual verwickelt, hat aber nicht funktioniert/ist nicht fertig geworden - war gegen _Ekujae-Elfen_ gerichtet.
 * __Jahsi__ ist ein Keledi (wegen Goldschmuck, von Stamm "ernannt") - so große Reinheit, dass nicht mal Gold verdirbt sie
-* ~15km entfernt: größere Lichtung
+* ~15 km entfernt: größere Lichtung
 * Marsch durch den Dschungel war unangenehm
 
 ### Akrivel, das Elfendorf
 * Brücken durch die Wipfel des Regenwaldes
 * Stadt in den Bäumen
-* Eine Halbelfe wartet auf uns: __Nketiah__ - ein Arm besteht aus verwobenen Ästen, in anderer Hand Leopardenstab (Messing)
+* Eine Halbelfe wartet auf uns: __Nketiah__ (Linguistin) - ein Arm besteht aus verwobenen Ästen, in anderer Hand Leopardenstab (Messing)
 * __Jahsi__ ist ihr Vater
 * Wir klettern nach oben (Smibb & Gash brauchen eine herbeigezauberte Treppe)
 * Mehrere hundert Elfen wohnen hier
@@ -135,3 +135,52 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Sie sind nicht wirklich beeindruckt, aber es ist "okay"
 * Gash zündet ein Feuerwerk an - sie sind halb begeistert, halb verängstigt
 * Wir begeistern dann tatsächlich die Dorfältesten
+
+## 13.08.2024
+
+#### Wir spazieren weiter
+* Newt spaziert durch das Dorf
+* Die Jugendlichen dort sprechen nur Elfisch
+* Ein elfischer Mann mit Dreadlocks spannt gerade einen Bogen und starrt auf unsere Gruppe
+* die Brücke nach NO hat 2 Wege (getrennt), die meisten gehen auf einem Weg, der andere wird nicht benutzt
+* Newt beobachtet den Mann mit Dreadlocks (einen Jäger)
+* __Nketiah__ scheint an nicht-Elfen interessiert zu sein, der Rest ist eher skeptisch
+* Gash will wissen, ob es feuerbegeisterte Elfen gibt oder Schamanen 
+* Elfen haben nicht die besten Erlebnisse mit Menschen/Gnomen gemacht und sind deswegen skeptisch
+* Der Jäger ist vorsichtiger und nicht so neugierig
+* Gash redet mal mit ihnen
+* Der Jäger ist __Akosa__
+* Er empfiehlt, Flussschweine zu jagen
+* Flussschweine sind nicht gefährlich - werden aber von anderen, gefährlichen Raubtieren auch gejagt
+
+#### Die Jagd
+* Wir sollen die Flussschweine beschützen
+* Die Elfen sind getötet, wiederauferstanden, zum Kämpfen gezwungen worden
+* Er redet von "Weißbrückenstation" und "Aspis-Konsortium", aber das sagt uns nichts
+* Wir kommen an, und verteidigen uns easy gegen 12 Krokodile
+* Auf der Rückreise fragt Gash nochmal nach den 2 Begriffen von vorher
+* Weißbrückenstation: Früherer Außenposten des Aspis-Konsortium (Handelskonsortium von Menschen/Zwerge/Gnome) im Mwangi-Dschungel, um Gold zu schürfen
+* haben viele Elfen vom Bussardstamm versklavt (unter Folter arbeiten)
+* Nach Tod sind sie von den Priestern als Zombies wiedererweckt worden
+* Nach Jahren der Folter sind sie ausgebrochen, und haben dort alle umgebracht
+
+#### Zurück im Dorf
+* Löwin Harriet wohnt auf der NO-Brücke 
+* Lazgar verbeugt sich, und wird "akzeptiert"
+* Gash greift mit der Hand, wird aber rejected - wirft Fleisch hin, um sich zu entschuldigen
+* Sie kommt zurück
+* Newt greift mit der Hand hin, sie beißt hinein
+* Das Fest beginnt!
+
+#### Das Fest beginnt
+* 2 Elfenmädchen kommen, und wollen uns herausfordern
+* Tanzkampf - Newt & Gash gewinnen gegen die Elfenmädchen
+* Smibb casted Grease währenddessen, aber wir sind zu cool um davon beeinträchtigt zu sein
+* Chillischoten-Wettbewerb
+* Newt struggled ziemlich, Lazgar isst alles problemlos
+* __Nketiah__ steht auf Smibb
+* Danach Inoffizielles Battle: Gash vs Lazgar - beide verlieren
+* __Nketiah__ fängt ein ernstes Gespräch an
+* Drüben sitzen ihr Vater (__Jahsi__) und __Akosa__
+* Sie will die beiden verkuppeln
+* Wir verkuppeln sie erfolgreich
