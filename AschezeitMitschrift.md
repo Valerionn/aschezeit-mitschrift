@@ -184,3 +184,46 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Drüben sitzen ihr Vater (__Jahsi__) und __Akosa__
 * Sie will die beiden verkuppeln
 * Wir verkuppeln sie erfolgreich
+* __Akosa__ schenkt Newt seinen Bogen
+
+## 22.08.2024
+
+#### Das Highlight des Festes: Die Geschichte der großen Finsternis
+* Geheimversammlung Gash/Newt: Operation Chilli in Smibb's Trinkschlauch. Codewort für Start: Feuerwerk
+* Kinder sind begeistert von Lazgar, sitzen auf der Schulter - Newt zeichnet die Situation
+* __Nketiah__ sagt: "Lass uns eine Motte(?) herbeirufen, um eine Geschichte zu erzählen"
+* Einst eine Zeit der Aufruhr/Zerstörung/ewigen dunklen Nacht, selbst Motten flogen nicht
+* Große Finsternis kam, und möchte noch mehr Leid säen und alles verbrennen
+* Tapfere Leute stellten sich entgegen und hatten keine Furcht: "Wir sind die Wächter dieses Landes"
+* Kampf war furchtbar, aber kein Lebewesen konnte die Haut der Finsternis durchdringen
+* Helden gaben ihre Seelen, um Waffe gegen die Finsternis zu erschaffen
+* hat Wunden erzeugt, aber die Finsternis stirbt nicht
+* die Leute setzen sie zwischen den Orten fest, und wollen sie bewachen
+* Newt erzählt eine Geschichte
+* Dahak = "die Finsternis"
+* Die Ascheklauen sind untypisch groß
+* Drachensäule: Wut/Hass/Finsternis auf die Elfen kanalisieren, und damit das Land verflucht
+* Ascheklauen-HQ-Ortsvermutung wurde uns auf der Karte gezeigt 
+* im S: Elefantendorf, Halbnomaden mit Elfanten wie "Familie", Einwohner sind sehr beschützend, vllt. Verbündete, aber gefährlich
+* einige Nekromanten in der Gegend
+* hat vor Jahren Feenwesen/Portale zur Feenwelt gegeben
+* Wir gehen zu __Akosa__
+  * Charokas und Bogat-Stämme sind da unterwegs
+  * Grippli - (kleinere) Froschleute, eigentlich eher "freundlich"/zurückhaltend
+  * vor ein paar Tagen ist ein Engel herumgeflogen
+* __Nketiah__ will uns noch Moskitonetze geben
+
+### Der Dschungel
+* Goldbarren hat einen komischen Schimmer, ist aber nicht magisch
+
+### Elefantendorf
+* Elefantendorf: niedergebrannt
+* gefangener Mensch, "Stammesbewohner"
+* __Edgar__ ist einer der "Elefantenleuten" - war seit gestern unter einem Balken eingeklemmt
+* wir retten ihn
+* Dorf ist vor kurzem überfallen worden
+* Kollegen sind Richtung Süden geflohen
+* Wir retten ein Flusschwein im N, das in eine Falle gegangen ist
+* Falle war einige Jahre alt, evtl. vom Aspis-Konsortium?
+* Newt verspricht Gash den Golbarren, falls er die Chilli-Salbe in Smibb's Getränk gibt
+* 
