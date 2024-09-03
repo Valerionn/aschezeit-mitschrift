@@ -201,7 +201,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * die Leute setzen sie zwischen den Orten fest, und wollen sie bewachen
 * Newt erzählt eine Geschichte
 * Dahak = "die Finsternis"
-* Die Ascheklauen sind untypisch groß
+* Die Ascheklauen sind untypisch groß (im Gegensatz zu anderen Kulten)
 * Drachensäule: Wut/Hass/Finsternis auf die Elfen kanalisieren, und damit das Land verflucht
 * Ascheklauen-HQ-Ortsvermutung wurde uns auf der Karte gezeigt 
 * im S: Elefantendorf, Halbnomaden mit Elfanten wie "Familie", Einwohner sind sehr beschützend, vllt. Verbündete, aber gefährlich
@@ -221,9 +221,33 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * gefangener Mensch, "Stammesbewohner"
 * __Edgar__ ist einer der "Elefantenleuten" - war seit gestern unter einem Balken eingeklemmt
 * wir retten ihn
-* Dorf ist vor kurzem überfallen worden
+* Dorf ist vor kurzem von Bogarts & Charokas überfallen worden
 * Kollegen sind Richtung Süden geflohen
 * Wir retten ein Flusschwein im N, das in eine Falle gegangen ist
 * Falle war einige Jahre alt, evtl. vom Aspis-Konsortium?
 * Newt verspricht Gash den Golbarren, falls er die Chilli-Salbe in Smibb's Getränk gibt
+
+## 03.09.2024
+
+* Newt & Smibb sind vergiftet
+* Nach etwas Zeit und Aufwand sind beide geheilt
+* Das Boot ist weg - aber wir sehen Spuren daneben
+* ungefähr 6-7 menschliche/humanoide Spuren
+* 1 Paar "teure" Fußabdrücke \[Hunted Prey\]
+
+### Das Mädchen
+* Wir hören ein kleines halbelfisches Kind weinen, ~7-8 Jahre
+* Mädchen hat Kräuter für "den Zirkel" gesucht
+* vom Druidenzirkel vom Mwangi-Becken
+* Sie ist Anwärterin - und hat eine Dschungelprüfung
+* hat dort Fani, das Reh, kennengelernt
+* Gash denkt, dass sie zu den Ascheklauen gehört, weil sie zu "offensichtlich Druidin" ist (Decoy?)
+* Das Mädchen heißt Bali Rübennase
+* Sie wohnt 4 Tage flussabwärts
+* Smibb tricked Newt mit einem Illusionspfeil
+* Irgendwas schleicht um das Lager herum, eher kleiner
+
+### Die Statue
+* Tote Charoka und (humanoide?) Steinstatuen sind da, die Statue die wir suchen ist aber weg
+* Wir treffen Gerhard Pendergrast, erfahrenster Archäologe
 * 
