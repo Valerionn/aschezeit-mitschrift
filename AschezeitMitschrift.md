@@ -250,4 +250,34 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 ### Die Statue
 * Tote Charoka und (humanoide?) Steinstatuen sind da, die Statue die wir suchen ist aber weg
 * Wir treffen Gerhard Pendergrast, erfahrenster Archäologe
-* 
+
+## 16.09.2024
+
+* Wir stehen neben der ausgegrabenen Drachenstatue und einem gefesselten Gerhard Pendergrast
+* die Augen der Statue leuchten noch blau, und raucht noch ein bisschen
+* Gash versucht die Statue wegzusprengen - zuerst durch eine Explosion der Donnerbüchse, dann mit einem Feuerball
+* Die Statue scheint aber recht unbeeindruckt zu sein
+* Lazgar verwandelt ihr Schwert in einen Hammer und haut darauf - wieder und wieder
+* Großer blauer Blitz, die Statue ist kaputt
+
+### Das Boot
+* Wir gehen den Fluss entlang, finden das Boot mit Pendergrast's Lager
+* Viele Kisten mit Proviant und Stroh
+* Irgendwas am Bug des Boots ist magisch
+* In Kisten im Stroh: Goldene Götzenbilder von Tieren
+* Beim Pendergrast finden wir ein Tagebuch: "Expedition ins Mwangibecken Teil 7 von Pendergrast"
+* Im Tagebuch: Gerüchte von Dschungeltempel im NO
+* Tagebücher Teil 1-6 ohne 3
+* In Teil 3 hat er irgendwen getroffen, der sehr gut weitergeholfen hat
+* Gash hat eine Schlange
+* S von uns sind Koboldspuren (haben sich komisch bewegt), in Richtung SW
+* In der Nacht leuchtet im O immer wieder was Goldenes auf (durchs Mondlicht)
+* Tracked Prey: Skelett-Viech
+
+### Der nächste Tag
+* Wir brechen mit dem Boot auf
+* Wir kommen zu einer Ameisenstraße, die Goldbrocken und Fleischbrocken transportieren
+* Die Goldbrocken schimmern so komisch wie Newt's Goldbrocken
+* Sinra wird wieder fast von Feuerbällen getötet in Charau-Ka-/Boggart-Hinterhalt
+* Newt's Psychic Ward-Armband wird verbraucht [!!]
+* Halb-Orks-Jäger SW vom HQ
