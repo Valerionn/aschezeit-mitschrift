@@ -269,7 +269,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Im Tagebuch: Gerüchte von Dschungeltempel im NO
 * Tagebücher Teil 1-6 ohne 3
 * In Teil 3 hat er irgendwen getroffen, der sehr gut weitergeholfen hat
-* Gash hat eine Schlange
+* Gash hat eine magische Jadeschlange
 * S von uns sind Koboldspuren (haben sich komisch bewegt), in Richtung SW
 * In der Nacht leuchtet im O immer wieder was Goldenes auf (durchs Mondlicht)
 * Tracked Prey: Skelett-Viech
@@ -279,5 +279,39 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir kommen zu einer Ameisenstraße, die Goldbrocken und Fleischbrocken transportieren
 * Die Goldbrocken schimmern so komisch wie Newt's Goldbrocken
 * Sinra wird wieder fast von Feuerbällen getötet in Charau-Ka-/Boggart-Hinterhalt
-* Newt's Psychic Ward-Armband wird verbraucht [!!]
-* Halb-Orks-Jäger SW vom HQ
+* Newt's Psychic Ward-Armband wird verbraucht
+* Halb-Ork-Jäger SW vom HQ
+
+## 01.10.2024
+
+* Smibb hat eine Arsenvergiftung
+* wir wissen nicht, wo's herkommt
+* Smibb reinigt unser Essen
+* im Lagerfeuer liegt ein Skelett von einer Katze
+* das Skelett steht auf, als Smibb versucht, es aufzustellen
+* die Skelettkatze hat eine Spacious Pouch mit einem Skelett darin (zusammen mit 50g und ein paar Wands)
+* Lazgar nimmt die Katze mit
+
+### Zu den Orkjägern
+* wir finden 2 Leichen auf einem Baum aufgehängt
+  * Dschungel-Elfen
+* nicht mehr als ein paar Tage her
+* Wir kommen zum Lager der Orkjäger
+* wir werden von Quetzalcoatlus angegriffen
+* das Lager ist komplett verwüstet
+* Wir treffen __Ifiok__, eine Orkfrau, vom Stamm am Okoda-See
+* sind Jäger, aber von Monstern angefallen worden
+* sie jagen ein Monster - ein Kichi namens __Itoro__ (gutaussehendes Feenwesen) [Hunt Prey]
+* Renali haben wir zum HQ geschickt
+* dort ist eine riesige Kuppel in Regenbogenfarben
+* mehrere Vögel sind dagegengeflogen und tot umgeflogen (eine in einem Blitz explodiert, eine ist zu Feuer geworden, ein anderer mitten in der Luft das Bewusstsein verloren)
+* nicht alle Farben sind mehr da (blau nicht mehr, weil wir die Säule zerstört haben)
+
+### Lazgar ist krank
+* Lazgar hat die Ruhr
+* wird von Insekten übertragen
+* Wir verfolgen __Itoro__
+* Wir finden eine Lichtung, mit Blutspuren, eine Spur von gebrochenen Ästen führt tiefer in den Wald
+* __Itoro__ hat __Ifiok's__ Neffen verführt, und danach war vom Neffen nicht mehr viel übrig
+* __Itoro__ weiß, dass es in der Gegend einen Tempel gibt - evtl. gibt es dort Statuen?
+* Wir haben __Itoro__ besiegt, aber noch nicht untersucht 
