@@ -315,3 +315,22 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * __Itoro__ hat __Ifiok's__ Neffen verführt, und danach war vom Neffen nicht mehr viel übrig
 * __Itoro__ weiß, dass es in der Gegend einen Tempel gibt - evtl. gibt es dort Statuen?
 * Wir haben __Itoro__ besiegt, aber noch nicht untersucht 
+
+## 05.11.2024
+
+* __Ifiok__ gibt Lazgar Alkohol-Geschenk & einen Speer des Schadens
+* Wir finden einen Chorengel __Chioma__, der in einem blutigen Sack bewusstlos dabei war (wurde von __Itoro__ getragen)
+  * er ist auf einer wichtigen Mission: Ein Magier aus Magaambya hat ihn beschworen, um seltene Pflanzen zu sammeln
+  * in der Uni ist ein Zauberspruch schiefgegangen, und deswegen suchen sie
+* Lazgar bekommt eine leuchtende Feder, die einmalig teleportieren kann (2 Felder teleportieren)
+* Wir erfahren, wo die Statuen sind
+
+### Der Tempel
+* Wir teleportieren uns zu einem Tempel östlich von uns, dieser ist auf einer Klippe
+* Smibb & Newt machen ein Wettrennen (Zauber vs Skill). Smibb gewinnt knapp, weil Gash die Ziellinie definitiv falsch gezogen hat
+* schaut wie ein Tempel, der von Bonuwati verehrt wurde - anhand von Zeichnungen von Menschen mit Schmetterlingsflügeln
+* [Hunt Prey auf Erhard Pendergrast]
+* Lazgar tötet Gerhard, Erhard überlebt (bewusstlos) 
+* im Tempel ist eine männlich, dünne Statue mit Schmetterlingsflügeln
+* der Tempel ist für die Götter Desna & Gozreh, aber eher einer Verschmelzung von beiden
+* wir begraben Gerhard Pendergrast
