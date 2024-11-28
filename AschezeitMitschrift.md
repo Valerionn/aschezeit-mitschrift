@@ -334,3 +334,38 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * im Tempel ist eine männlich, dünne Statue mit Schmetterlingsflügeln
 * der Tempel ist für die Götter Desna & Gozreh, aber eher einer Verschmelzung von beiden
 * wir begraben Gerhard Pendergrast
+
+## 28.11.2024
+
+### Die Feier...und eine Explosion
+* Wir haben gefeiert, den Orkschnaps getrunken
+* Gash hat sich weggesprengt?!
+* Desna: Führt durch die Dunkelheit, durch Albträume, sicheres Geleit
+* Gozreh: Natur, Wind, Wandel
+* Ein Kobold schleicht sich an: "Kuni Moosklauber", ist hier heimisch, Chef von Kultisten(?): Belzamuk
+* die Kultisten suchen in der Mine nach Gold, violette Säule ist dort
+* das Gold ist vergiftet (inkl. dem, das wir dabei haben), wir packen es öfter ein
+
+### Zur Mine?
+* Wir brechen zur Mine auf & kommen an
+* Saurier im Käfig: Mokele-Mbembe
+* Newt schleicht herum:
+  * 2 Charo'kars liegen in Baracke
+  * im Lazarett liegende sind verdreckt, aber nicht verwundet (erkrankt?)
+  * im O vor Haus, Beschwörungskreis, schaut ähnlich aus wie bei den Höllenrittern, nur komplizierter
+  * im Haus brennt ein Feuer
+  * beim Lazarett sind eher Boggart-Zauberer, gelangweilt, helfen nicht so wirklich
+  * Charokars stehen um die Säule, nur Charokars und Boggarts in der Mine
+  * die Grabenden wirken sehr unzufrieden, aber die Aufseher wirken zufrieden
+  * in der Mine hinten ist ein See/Lake, in der abgewaschen wird
+  * die Mine ist hauptsächlich Schlamm
+  * Beschwörungskreis ist nicht ganz frisch
+  * Im O-Haus sind Reagenzgläser, Waage
+  * draußen: Waage mit Goldklumpen
+* Benko, der Kakaobaum redet mit Kuni
+  * ~35 Leute in der Gegend
+  * großes Viech ist seit ein paar Tagen da
+  * ein paar Leute wohnen in den Baumkronen von seinen Baumkollegen
+* Wir finden ein Vogelnest im NW, in dem sehr fachmännisch (brutal) zerlegte Leichen rumliegen
+* Wir werden vom Vrock überrascht
+* Den Minenarbeiter ist unser Kampf recht egal 
