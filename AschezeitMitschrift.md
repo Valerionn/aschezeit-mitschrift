@@ -342,12 +342,12 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Gash hat sich weggesprengt?!
 * Desna: Führt durch die Dunkelheit, durch Albträume, sicheres Geleit
 * Gozreh: Natur, Wind, Wandel
-* Ein Kobold schleicht sich an: "Kuni Moosklauber", ist hier heimisch, Chef von Kultisten(?): Belzamuk
+* Ein Kobold "schleicht" sich an: "Kuni Moosklauber", ist hier heimisch, Chef von Kultisten(?): Belzamuk
 * die Kultisten suchen in der Mine nach Gold, violette Säule ist dort
 * das Gold ist vergiftet (inkl. dem, das wir dabei haben), wir packen es öfter ein
 
 ### Zur Mine?
-* Wir brechen zur Mine auf & kommen an
+* Wir brechen zur Herr Mine auf & kommen an
 * Saurier im Käfig: Mokele-Mbembe
 * Newt schleicht herum:
   * 2 Charo'kars liegen in Baracke
@@ -369,3 +369,26 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir finden ein Vogelnest im NW, in dem sehr fachmännisch (brutal) zerlegte Leichen rumliegen
 * Wir werden vom Vrock überrascht
 * Den Minenarbeiter ist unser Kampf recht egal 
+
+## 08.12.2024
+
+### Zur Mine!
+* Wir planen, die Mine anzugreifen
+* Wir erwachen am nächsten Tag
+* Newt schleicht zum Haus (aus massivem Holz)
+* Haus = Chemielabor, schaut sehr gemütlich aus
+* Am Tisch steht Essen, mit schönerem Besteck
+* Wir gehen zum Käfig im N
+  * Käfig hat dicke Stämme
+  * primitiv, aber stabil
+  * Westseite mit Gegengewichten & Rad verbunden
+  * vmtl. Pflanzenfresser
+* Wir haben den Saurier befreit, und greifen das ganze Camp an
+* Falle bei Hauseingang
+* Hazel wurde erpresst, und soll mit Alchemie überprüfen, wie viel göttliche Macht im Gold ist
+* Drachenergie auf Charokars, die können Feuer spucken, usw.
+* Gold geht an eine Organisation außerhalb des Dschungels: Blutrote Triade
+  * expliziter Wunsch nach starker Verseuchung
+* lt. Legende: Dahak's Blut hat das Gold verseucht
+* next: wir observieren das Lager weiterhin, und schlagen unser Lager in der Nähe auf
+* next: Discussion about ze blutrote Triade
