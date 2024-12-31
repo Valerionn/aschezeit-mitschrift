@@ -390,5 +390,36 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Gold geht an eine Organisation außerhalb des Dschungels: Blutrote Triade
   * expliziter Wunsch nach starker Verseuchung
 * lt. Legende: Dahak's Blut hat das Gold verseucht
-* next: wir observieren das Lager weiterhin, und schlagen unser Lager in der Nähe auf
+* Hazel hat den Vrock beschworen (WTF)
+* next: wir observieren das Lager weiterhin, und schlagen unser Lager in der Nähe auf (evtl.: Newt hält Ausschau bis zum Abend?)
 * next: Discussion about ze blutrote Triade
+* next Frage: Kann man die Goldklumpen "entgiften"? (entzaubern? ist das überhaupt Magie?)
+* Newt: ist/war Hazel eine Prüfung seiner Mom, um ihn dazu zu bringen, (für sie) Unschuldige zu töten?
+
+## 30.12.2024
+
+## Der Racheengel
+* Newt behält die Mine im Blick, während der Rest ein Lager aufschlägt
+* Nach ~einer halben Stunde fangen sie wieder zum Arbeiten an
+  * 2-3 + Aufseher behalten den Eingang im Blick
+* Smibb erzählt Kuni unsere Geschichte
+* Lazgar untersucht das Schlafhaus, und findet da Infos, dass die Wachen in der Nacht patroullieren
+* im Erdhaufen ist ein langer schwarzer Stab, der kurz rausfährt und sich danach wieder
+  * Schlammspinne
+* um ~18:45 herum gehen alle schlafen
+* Bogarts und Charau'kas werden in die Betten gescheucht
+* einer hält Wache
+* Wir überfallen eine Wache im Wald
+* im Wasser sind Viecher
+* Belmazok - Anführerin
+* Newt schüchtert den Charau'kar ein als "Racheengel"
+
+## Tod der Statue!
+* Wir gehen zur Statue - diese greift an, und wir kämpfen
+* Die Gegner wollen nicht tot bleiben, aber wir hauen trotzdem weiter und weiter drauf ein
+* Die Säule wird durch Kuni's Rostzauber zersetzt
+* Lazgar wird von Smibb groß gezaubert
+* Newt gibt Kuni 3 Platin
+* Wir treffen und reden mit Spinnen, die uns eine Ritterrüstung geben
+  * Newt ist begeistert von den Schlammspinnen
+* 
