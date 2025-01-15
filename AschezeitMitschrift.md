@@ -398,7 +398,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 
 ## 30.12.2024
 
-## Der Racheengel
+### Der Racheengel
 * Newt behält die Mine im Blick, während der Rest ein Lager aufschlägt
 * Nach ~einer halben Stunde fangen sie wieder zum Arbeiten an
   * 2-3 + Aufseher behalten den Eingang im Blick
@@ -414,7 +414,8 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Belmazok - Anführerin
 * Newt schüchtert den Charau'kar ein als "Racheengel"
 
-## Tod der Statue!
+### Tod der Statue!
+* Nächster Tag
 * Wir gehen zur Statue - diese greift an, und wir kämpfen
 * Die Gegner wollen nicht tot bleiben, aber wir hauen trotzdem weiter und weiter drauf ein
 * Die Säule wird durch Kuni's Rostzauber zersetzt
@@ -422,4 +423,25 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Newt gibt Kuni 3 Platin
 * Wir treffen und reden mit Spinnen, die uns eine Ritterrüstung geben
   * Newt ist begeistert von den Schlammspinnen
-* 
+
+## 15.01.2025
+### Ab in den Süden
+* Wir gehen nach Süden
+* Smibb riecht Alkohol
+* Wir finden eine Lichtung mit einem Mammutbaum, wo darunter eine größere Lacke ist
+  * wir riechen auch Alkohol
+  * Tiere liegen um die Lacke verteilt herum
+* Am Mammutbaum ist ein kleines Fass, der runtertropft, liegt schon sehr lang und ist überwachsen
+* ist seit "hunderten von Jahren" dort oben
+* Newt klettert nach oben - ziemlich massiver Krug mit Runen
+* Endloser Met-Krug
+* Kuni crafted einen Schild
+* Newt hört ein Flussschwein schreien
+
+### Die gelbe Statue
+* Wandschi-Fluss
+* Wir sehen im Süden eine richtig große, regenbogenfarbige Kuppel (HQ)
+* Es regnet in der Nähe der Statue (Richtung Gewitter), es wird immer mehr nass
+* Wir besiegen einige Bogarts und Charaukas
+* Säulen können mit Thievery, Athletic oder Dispel Magic ausgeschaltet werden
+* Newt übt als HUGE creature
