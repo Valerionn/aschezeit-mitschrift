@@ -445,3 +445,14 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir besiegen einige Bogarts und Charaukas
 * Säulen können mit Thievery, Athletic oder Dispel Magic ausgeschaltet werden
 * Newt übt als HUGE creature
+
+## 29.01.2025
+* Smibb kostet Kuni's Moos
+* Wir finden eine grüne Säule
+* Kuni entzaubert sie
+* Newt stirbt fast
+* Wir finden Riesenwespengift und eine Lederrüstung
+* Auf nach Bruchhügel!
+* Wir müssen uns ein Minenkart kaufen
+* Wir gehen zur Vorsitzenden Greta
+* Newt schickt Lysander das Gold zurück
