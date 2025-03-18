@@ -456,3 +456,38 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir müssen uns ein Minenkart kaufen
 * Wir gehen zur Vorsitzenden Greta
 * Newt schickt Lysander das Gold zurück
+
+## 14.02.2025
+
+### Auf zum HQ
+
+* Newt kauft einen Steam Trolley
+* Um das HQ ist alles super sumpfig - man kann nur schwimmen/waten/mit einem Boot weiterkommen
+* Wir gehen zurück zum Boot und fahren dann mit dem Boot zum HQ
+* Ragathiel - Lazgar's Gott
+* Wir töten irgendwelche Mini-Bogarts
+* Danach kommt ein Lehmgolem, der von Newt getriggered wird, weil Smibb zu langsam geredet hat
+* An den Wänden sind komische fugenlose Auswölbungen auf der Innenseite. Auf der Außenseite sind Fugen?
+
+## 08.03.2025
+
+* Weiter in die Richtung schnaubt ein großer, unnatürlicher Hund
+* Es ist ein nessischer Kriegshund
+* Nach einem quasi fast geordneten Rückzug greift er uns an -> wir kämpfen und gewinnen
+* Newt stellt oben eine Falle auf, macht Lärm, und läuft herum
+* Lazgar stirbt fast, Helikopter-Pilot Smibb transportiert uns
+* Darstellung von Dahak
+* Knochen von einem versteinerten (?) Drachen
+* Kunstvolle Türen, von denen Dämpfe aufsteigen
+* Newt greift in die Dämpfe
+  * aus der Tür wächst ein gigantischer Knopf aus Feuer, Flammen und Knochen und versucht, Newt zu verschlingen
+  * Newt stirbt fast
+* Psychic Warding Bracelet
+
+## 18.03.2025
+
+* Wir gehen zurück zur Festung
+* Kuni dispelled die Tür-Magie
+* Wir stören eine Vorlesung und töten alle
+* Smibb hört eine Ziege -> Chimäre -> wir töten alle
+* Cliffhanger: BOSSKAMPF
