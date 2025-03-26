@@ -491,3 +491,30 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir stören eine Vorlesung und töten alle
 * Smibb hört eine Ziege -> Chimäre -> wir töten alle
 * Cliffhanger: BOSSKAMPF
+
+## 26.03.2025
+
+* _Belmazog_ hat versucht, einen riesigen Vulkan zu beschwören, um das Tor des Jägers aufzubrechen und den Geist Dahaks zu befreien
+  * wäre aber wahrscheinlich schief gegangen
+* _Kyrion_, der Drache wird von uns gerettet
+  * wir bekommen den Schatz des Drachens
+  * wurde von Belmazog aufgezogen
+  * hat einen goldenen Splitter in seiner Brust - von der blutroten Tryade ursprünglich, unterstützung von Ritualen
+* Ascheklauen mit der blutroten Tryade gehandelt
+* Wir bekommen ein Sternmesser - Portalschlüssel "Finsternis"
+  * Tor der Träumerin
+  * mit Göttin Desna (der Träume) verknüpft
+  * Newt nimmt ihn
+* Geschichte der Portale:
+  * Elfenheld Cantlaron hat das Arjutara (Alsettas Ring) erschaffen
+    * Portale in 6 verschiedene Richtungen
+    * davor: nur 1-1 Portale
+    * Tor der Träumerin geht in die Nähe von Kintargo
+    * beim Erdenfall ist so viel Energie freigesetzt wurde, dass ein Portal beschädigt wurde
+    * Dahak ist durch den Spalt in die materielle Ebene entkommen
+    * hat die Zeit der Finsternis eingeleitet
+  * Andere Schlüssel:
+    * magischer Meißel öffnet Tor der Dämmerung
+    * magischer Bernstein öffnet Tor der Rächerin
+    * magische Blume - Tor des Lotus
+    * magischer Edelstein - Tor der Juwelen
