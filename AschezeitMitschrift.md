@@ -518,3 +518,119 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
     * magischer Bernstein öffnet Tor der Rächerin
     * magische Blume - Tor des Lotus
     * magischer Edelstein - Tor der Juwelen
+
+## 30.04.2025
+
+* Hintergrundwissen für Kintargo
+* vor 3 Jahren: Rebellion, seither ist Kintargo "frei"
+* Madame Docurs Mädchenschule:
+  So ein Mädcheninternat für die Oberschicht. Hast schnell gelernt, dass die Mädchen auf Zack sind und Taschendiebstahl nur zu einer Verdreschung von dir führt.
+  Mädchen werden anscheinend recht gut in Selbstverteidigung unterrichtet.
+* Molchmarkt:
+  öffentlicher schrulliger Markt neben dem Kontor.
+  Du hast eher dort gekauft weil "Gesindel" nicht gern im Kontor gesehen wurde
+  Bietet auch seltene + ungewöhnliche Waren, allerdings hast du die nur aus der Ferne gesehen
+* Abendrot Importe (Firma) -> eine Geschäftsstelle die du kennst an Vaschnarstill-Werft:
+  Luxusgeschäft am Hafen wo du mal (öfter?) eingebrochen bist (wenn du willst^^)
+  wird von der Varschnarstill Familie geführt
+  kanntest auch die Tochter _Sedranni Varschnarstill_ (Mensch) (älter als Newt, hat bei Diebstahl geholfen weil spannend, hat Newt verteidigt als er geschnappt wurde)
+* Langweg-Kaffeehaus:
+  Du und der Rest eurer Bande sind da gern hingegangen um die richtig geilen Gebäckstücke zu genießen
+  Betreiberin Laria Langweg (Halbling) hat euch die im Austausch an Geschichten eurer Überfälle geschenkt
+  Laria war cool damit, hat aber immer versucht, euch (vorallem dich) in eine positivere Bahn zu lenken (eher bei der Elite stehlen, Armen helfen statt ausrauben, etc.)
+  du hast auch das Gefühl, dass Laria früher selbst nicht ganz "sauber" war...
+* Alabaster-Akademie:
+  war früher mal Landesbekannt. Jetzt in Verruf (und Verfall) gefallen und kämpft ums Überleben (angeblich war ein sehr beliebter Professor ein brutaler mörderischer Sadist...)
+  den hohen Turm (Tanessenturm) der Akademie sieht man von der ganzen Stadt aus und wird als Orientierungspunkt verwendet
+* **Charaktere**
+* _Corra_ (Halblingin): du hast ihr ein paar Kniffe beim Schlösserknacken und Schleichen gezeigt. War in eigener Halbling-Gilde
+  Ist gern und oft mit dir überall eingebrochen, aber du hast sie mal dabei erwischt, wie sie was von der Beute von euch geklaut hat (und sie dann der Gilde verwiesen?)
+  Hat sich auch gut mit Laria vom Kaffeehaus verstanden (hast schon einige verstohlene "Blicke" zwischen ihnen gesehen)
+  hast dann den Kontakt zu ihr verloren (weil du sie rausgeschmissen hast?) aber davor habt ihr euch aber super verstanden
+  dort hast du dann eben Corra erwischt, wie sie nach dem Einbrauch heimlich mehr als ihren Teil der Beute genommen hat
+  und sie dann weggeschickt + gewarnt, sich von der  Gilde + dir fern zu halten (sie wäre vermutlich eher angepisst auf dich weil sie deine Intention nicht kannte)
+* _Fabbi_ (Halbling): Händlersohn, hat immer gewusst, wo welche Waren unterwegs waren. Kein guter Dieb und geriet schnell in Panik wenn ihr erwischt wurdet
+  Hat auch von dir einiges gelernt und dir im Gegenzug das Drachenfliegen beigebracht. Er und Corra haben das immer gern am Drachenhügel gemacht (und du dann vermutlich auch).
+  Drachenhügel = nördlich "des Grünen" = Adelsviertel
+  ist mit _Corra_ gegangen
+* _Elianda_ (Halblingin): irgend ein Kind, welches bei Laria im Kaffeehaus gelernt hat. Hat immer gern euren Geschichten (heimlich) gelauscht
+* _Frau Docur_ (Elfin): Leiterin vom Internat, Hat dich dabei erwischt, wie du von ihr (oder einer ihrer Schülerinen?) was stehlen wolltest
+  Hat dir dann mit ziemlichem Geschick die Sachen wieder abgenommen und dich entwaffnet (wenn du das willst). Und dich ordentlich ausgeschimpft (aber nicht bei der Wache gemeldet)
+  Hat dir auch gedroht, wenn du wieder ihr oder dem Internat / Mädchen zu Nahe kommst, du nicht mehr "so glimpflig davon kommen wirst" ...
+  Nach dem Blick in ihren Augen und dem teuflischen Grinsen hast du ihr das auch sofort geglaubt
+
+### Das (Über-)Morgen muss brennen
+
+* Smibb hat Belmazog's Tagebuch entziffert
+  * Ritual: Kyrion opfern, usw.
+  * Blutrote Tryade: Haben magischen Golem geschickt, Kyrion als Ei geschickt, Rituale für Säulen
+    * im Austausch: nur das Gold aus Herr Mine
+    * Belmazog hat nicht gewusst, dass das Gold verflucht ist
+    * Tryade verlangt immer mehr Gold, immer coolere Belohnungen
+    * Hauptkontakt (einziger Kontakt): Gnollin _Laslunn_
+    * Blutrote Tryade = Dahak-Sekte aus fernen Ländern (lt. Belmazog - die war aber ziemlich fanatisch)
+  * hat Skelett von Dahak gefunden (Dahak's Avatar, von den Elfen vernichtet)
+    * rundherum Kult aufgebaut
+  * wenn die letzte Statue aufgestellt worden wäre, dann wären sie quasi unzerstörbar gewesen
+    * wurde aber von den Elfen verhindert (neben Portal)
+* _Warbal_ begrüßt uns, als wir wieder zurückkommen
+* 4-Forellen-Wappen wurde beim Eingang der Zitadelle gebaut
+  * _Fadelby Vusker_ hat es gebaut (Wagenmacher & Kunsthandwerker)
+* Wir trinken Orkschnaps für Smibb's Abschied
+* Newt's Plan funktioniert (und er klaut Smibb's Tagebuch und ersetzt es durch Bilder)
+* Jährliches Stadtfest in 3 Wochen
+  * zeremonieller Heldenkampf
+  * gegen die dröhnenden Dorsche
+* wir planen eine Märchengrottenbahn (Flip-Kino durch die Minecartstrecke)
+* Wir treffen Wolfgangk Lichtfels
+* Wolfgangk's Theaterstück
+  * von Orks großgezogen?
+  * in Schule: langweilig, will lieber auf Drachenjagd gehen
+  * zuerst: Waffen schmieden!
+  * kämpfen gegen "Drachen"
+  * Graduation Cap
+  * 2 Eltern: Orks von vorher
+  * Wolfgangk will auf Abenteuer gehen!
+  * muss aber zuerst fürn Onkel arbeiten
+  * am Hafen arbeiten (Kisten schleppen für gut ausgerüstetes Schiff)
+  * Wolfi geht mit auf Piratenjagd als blinder Passagier
+  * Onkel schimpft mit Wolfi
+  * Wolfi arbeitet in der Küche
+  * Orks feiern
+  * Wolfi wird offiziell in Crew aufgenommen (bekommt Revolver geschenkt)
+  * Schiff beschädigt, Wolfi leitet die Crew an, und sie reparieren das Schiff
+  * Seeschlacht: Wolfi leitet die Crew an, die Crew vertraut ihm
+  * die blutigen Barsche waren erfolgreich
+* Lazgar ist 21 Jahre alt
+* Lazgar's Vater war der Stammeshäuptling der Vielfraße
+  * Tochter von ihm + menschlicher Sklavin
+  * mit 18: Aufnahmeritual + Menschenjagd - entweder du bringst den Typen um, oder schleichst dich
+  * danach: Priesterausbildung
+* Titel: Bruchings Krönung
+
+## 13.05.2025
+
+* Wir bekommen einen Drohbrief
+* Wir gehen zur Wagenmacherei, 
+* Kuni verwandelt sich in eine Ratte
+* _Heuberk Thropp_ hat uns erwartet - Mitglied der blutroten Triade
+  * seit mehreren Wochen da
+* _Voss Lyrian_ (die Buchhändlerin) ist seine Freundin
+* Buchhandlung: hier war im letzten Monat mal wer
+* Blutrote Triade: Import/Export magische Gegenstände, Gewürze, ...
+  * in jüngster Vergangenheit: auch Söldner vermittelt
+  * Verschmelzung aus Handelsgilde aus Katapesch + Seehandel + Gruppe zwergische Händler
+  * Großes Handelsgebiet
+* er kommt aus Ravounel - soll nachschauen
+
+* Wir wollen das Portal öffnen - Schlüssel muss Portal öffnen
+* Zwischenraum schaut weniger kaputt aus
+  * mit zerkratzten Reliefs geschmückt
+  * Reste von zerstörter Statue
+  * oberhalb: Leiche von hässlicher gehörnter Frau an die Wand genagelt
+    * tote Nachtvettel
+* der Raum ist Desna gewidmet
+  * üblicherweise als "Schmetterling" (in der Nacht) beschrieben
+* Herstein-Amulett: Kinderherz eines Hag-Kindes
+* Lazgar wird von Baum angegriffen
+* Das Portal ist zugegangen
