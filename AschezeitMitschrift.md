@@ -542,6 +542,8 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Alabaster-Akademie:
   war früher mal Landesbekannt. Jetzt in Verruf (und Verfall) gefallen und kämpft ums Überleben (angeblich war ein sehr beliebter Professor ein brutaler mörderischer Sadist...)
   den hohen Turm (Tanessenturm) der Akademie sieht man von der ganzen Stadt aus und wird als Orientierungspunkt verwendet
+* Ruk-Stadion
+
 * **Charaktere**
 * _Corra_ (Halblingin): du hast ihr ein paar Kniffe beim Schlösserknacken und Schleichen gezeigt. War in eigener Halbling-Gilde
   Ist gern und oft mit dir überall eingebrochen, aber du hast sie mal dabei erwischt, wie sie was von der Beute von euch geklaut hat (und sie dann der Gilde verwiesen?)
@@ -629,8 +631,40 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   * Reste von zerstörter Statue
   * oberhalb: Leiche von hässlicher gehörnter Frau an die Wand genagelt
     * tote Nachtvettel
+      * Vetteln müssen nicht nicht zwingend zaubern
+      * Zirkel: können gemeinsam (langsame) Zauber zaubern
+  * alle Geräusche sind sehr gedämpft
 * der Raum ist Desna gewidmet
   * üblicherweise als "Schmetterling" (in der Nacht) beschrieben
 * Herstein-Amulett: Kinderherz eines Hag-Kindes
 * Lazgar wird von Baum angegriffen
-* Das Portal ist zugegangen
+* Das Portal ist zugegangen (nach 10min)
+
+## 03.06.2025
+
+* Newt schleicht durch den Raum - sieht eine Vettel (seine Mom?)
+* Kuni sieht ein brennendes (Asselfressendes) Pferd
+
+## 17.06.2025
+
+* Newt tötet seine Mom
+* Die Night Hag ändert ihr Gesicht zu einem Gesicht, das Newt bekannt vorkommt...aber er weiß nicht, woher
+* Lazgar ist verflucht
+* Wir finden Traumsteine - wir versuchen sie im Fallen-Baum einzusetzen, der Baum "blutet" schwarzes Zeug, aber ansonsten passiert nichts
+  * Newt nimmt die Traumsteine wieder mit
+* Wir aktivieren das Portal und gehen durch
+* Wir sind an der Brodelnden See (Meer), in einer kleinen moosbedeckten Höhle
+  * Nach unten 9m, nach oben 15m, an einer Klippe
+* Wir sind östlich von einem Zypressen-Örtchen mit einem großen Schiff ist in der Nähe
+  * Zypressenspitze
+  * nahe der Grenze von Nidal (im Osten)
+  * ein paar Tage zu Fuß von Kintargo
+  * Rauchschwaden
+  * Panik, Schreie
+  * Wir marschieren (schnell) dorthin
+* Wir kommen an, und gehen hin
+* eine Frau läuft von mehreren Leuten der blutroten Triade davon
+* Wir treffen auf eine Sklavenjägerpatrouille und besiegen sie, befreien einen Mann (Leppin)
+* Schiff: Das Lächeln des Flaschengeists
+* Hafen: Bootshaus
+* Stadtoberhaupt: im Räucherhaus eingesperrt
