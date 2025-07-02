@@ -667,4 +667,24 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir treffen auf eine Sklavenjägerpatrouille und besiegen sie, befreien einen Mann (Leppin)
 * Schiff: Das Lächeln des Flaschengeists
 * Hafen: Bootshaus
-* Stadtoberhaupt: im Räucherhaus eingesperrt
+* Stadtoberhaupt: im Räucherhaus (9-Schilde-Räucherei) eingesperrt
+
+## 02.07.2025
+
+* Wir retten _Xerelilah_, die Bürgermeisterin
+* Wir finden einen Halb-Mensch/Halb-Gestrandeter
+  * vmtl. aus Nidal
+  * _Halleka Schattenkind_
+* _Einäugiger Amnin_ war am Dach und mad auf uns
+  * kommen von den Abendrot-Importe (haben dort eine Basis?)
+  * wollen sich hier auftoben, fähige Sklaven finden, Stadt aus Spaß verwüsten
+  * wollen die Stadt niederbrennen bevor die Kintargo-Wache ankommt
+* Wir gehen zum Hafen
+* zum Bootshaus
+* Wir durchsuchen das Lagerhaus
+  * Ortskarte - rotes X von Bootshaus, mit Linien für Feuerspur, um den Ort anzuzünden
+  * im Wasser hat ein Kruth angegriffen und das Bootshaus tlw. kaputt gemacht
+    * haben vmtl. die Brandstifter gegessen
+* Wir disguisen uns als Blutrote-Triade-"Wachen", eskortieren Kuni/Lazgar als unsere Gefangenen
+  * die beiden waren Helden, die von Amnin gefangen wurden, wir müssen sie eskortieren
+  * wir wollen sie zu den anderen Gefangenen bringen
