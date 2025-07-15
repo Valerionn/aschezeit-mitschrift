@@ -674,10 +674,10 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir retten _Xerelilah_, die Bürgermeisterin
 * Wir finden einen Halb-Mensch/Halb-Gestrandeter
   * vmtl. aus Nidal
-  * _Halleka Schattenkind_
+  * _Halleka Schattenkind_ (schaut gut aus)
 * _Einäugiger Amnin_ war am Dach und mad auf uns
   * kommen von den Abendrot-Importe (haben dort eine Basis?)
-  * wollen sich hier auftoben, fähige Sklaven finden, Stadt aus Spaß verwüsten
+  * wollen sich hier austoben, fähige Sklaven finden, Stadt aus Spaß verwüsten
   * wollen die Stadt niederbrennen bevor die Kintargo-Wache ankommt
 * Wir gehen zum Hafen
 * zum Bootshaus
@@ -688,3 +688,17 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * Wir disguisen uns als Blutrote-Triade-"Wachen", eskortieren Kuni/Lazgar als unsere Gefangenen
   * die beiden waren Helden, die von Amnin gefangen wurden, wir müssen sie eskortieren
   * wir wollen sie zu den anderen Gefangenen bringen
+
+## 15.07.2025
+
+* Wir gehen zum Hafen hinunter
+* Iflow - Wolfi's Deckname
+* Twen - Newt
+* die Segler haben alle kein Blutrote-Triade-Wappen
+* Kuni & Newt gehen in den Laderaum
+  * ~40 Sklaven angekettet
+  * 2 Wachen daneben
+  * Newt wird dabei erwischt, Kuni zu befreien -> Let's battle
+  * (Lazgar ist oben bei Kalavakus)
+* TODO: Rüstung wieder wechseln
+* TODO: Waffen wieder aufsammeln
