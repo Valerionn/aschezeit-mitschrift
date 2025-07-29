@@ -530,7 +530,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   öffentlicher schrulliger Markt neben dem Kontor.
   Du hast eher dort gekauft weil "Gesindel" nicht gern im Kontor gesehen wurde
   Bietet auch seltene + ungewöhnliche Waren, allerdings hast du die nur aus der Ferne gesehen
-* Abendrot Importe (Firma) -> eine Geschäftsstelle die du kennst an Vaschnarstill-Werft:
+* Abendrot-Importe (Firma) -> eine Geschäftsstelle die du kennst an Vaschnarstill-Werft:
   Luxusgeschäft am Hafen wo du mal (öfter?) eingebrochen bist (wenn du willst^^)
   wird von der Varschnarstill Familie geführt
   kanntest auch die Tochter _Sedranni Varschnarstill_ (Mensch) (älter als Newt, hat bei Diebstahl geholfen weil spannend, hat Newt verteidigt als er geschnappt wurde)
@@ -700,5 +700,25 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   * 2 Wachen daneben
   * Newt wird dabei erwischt, Kuni zu befreien -> Let's battle
   * (Lazgar ist oben bei Kalavakus)
-* TODO: Rüstung wieder wechseln
-* TODO: Waffen wieder aufsammeln
+
+## 29.07.2025
+
+* Newt findet Zetteln, einen Mantel, und kleinere Wertsachen
+  * Schiffspläne vom Amnin (wo hängen wie welche Sklaven?)
+  * Amnin wollte das Schiff umbauen, mit Fächern, damit noch mehr Sklaven reinpassen
+  * scheint eine große Obsession gehabt zu haben, wie man optimal Sklaven in ein Schiff unterbringt
+  * Amnin hat Briefe mit Varschnarstill-Briefkopf geschrieben
+* und einen Umhang von _Sedranni Varschnarstill_
+* Newt findet Blutrote Triaden-Mitglied _Helgi_ - Eltern versklavt
+  * kommen aus Kintargo, Amnin wollte was "anstellen"
+  * _Laslunn_ (Blutrote-Triade-Anführerin) möchte nicht, dass Amnin die Sklaven tötet -> aufgebrochen
+  * Deal mit Besitzerin (junge Frau - Sedranni?)
+* Wir treffen _Halleka Schattenkind_
+  * kühle Hand, nass-feucht
+  * Diplomat aus Nidal
+  * auf dem Weg nach Kintargo (will mit silbernen Rat reden - Beziehungen verbessern)
+  * Gestrandeter: Nachfahren von jemandem, der im Schattenreich war
+    * in Nidal: häufiger
+  * macht sich Sorgen, dass er zu spät ankommt
+* Bottomless Stein-Krug kommt von den Zwergengöttern Ceilian, hat mir Halleka erzählt (?)
+* 
