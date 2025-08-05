@@ -721,4 +721,40 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
     * in Nidal: häufiger
   * macht sich Sorgen, dass er zu spät ankommt
 * Bottomless Stein-Krug kommt von den Zwergengöttern Ceilian, hat mir Halleka erzählt (?)
-* 
+
+## 05.08.2025
+
+### Kintargo
+
+* Newt redet auf dem Weg mit _Halleka_
+  * redet über Nidal's Kultur
+  * redet über Wesen "Velstracs"
+  * Cheliax: verbunden mit Höllen/Teufeln
+  * vor 100 Jahren: Nidal hat sich abgespalten
+  * vor 2 Jahren: Ravounel hat sich ebenfalls abgetrennt
+  * Ravounel wurde von _Barzillai Thrune_ geführt (Kintargo) - bis vor 2 Jahren
+  * Nidal: ältestes Land, früher Pferdewesen, etc.
+    * Zon-Kuthon, Gott des Schmerzes, einzige erlaubte Religion
+    * einige Schattenwesen hier, z.B. Velstracs
+    * direkte Nachfahren von Zon-Kuthon
+    * Unholde (Fiends)
+  * Leute haben Angst vor den Thrunes
+  * _Halleka_ hat nicht so viele Freunde
+    * wir sollen in besuchen kommen im diplomatischen Amt von Nidal
+    * Priester von Zon-Kuthon
+
+* Wir brechen zum Molch-Markt auf, und verkaufen/kaufen
+  * Das Glockenspiel geht los (Phantomglocke)
+  * Leute schreien, Barzillai sei wieder da, und hat seine Hunde geschickt
+  * ...aber es ist niemand da?
+* Newt stiehlt ein Schmuckstück mit Illusionen (was genau? z.B. Kette mit Auge, das blinzelt, ...)
+* Newt macht Recall Knowledge
+  * ...könnte von Nidal ausgehen? (Terror stiften)
+  * Thrune/Cheliax ist wiedergekommen?
+  * eventuell irgendeine Fraktion/Gilde, die möchte, dass Thrune wiederkommt
+  * Unruhe stiften / Angst stiften - vor allem, weil es nur Illusionen sind
+* Newt sieht eine auffällige Person, spricht einen Zauber und verschwindet
+  * Gale-ähnlich, mit Handschellen und Morgenstern
+  * Dimensionstür
+* überall Geisterhunde, etc.
+* Halleka ist entweder noch unterwegs oder in der Botschaft angekommen - müssen wir ihn retten, oder können wir vorher noch in's Kaffeehaus gehen?
