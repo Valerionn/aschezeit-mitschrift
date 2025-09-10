@@ -758,3 +758,50 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   * Dimensionstür
 * überall Geisterhunde, etc.
 * Halleka ist entweder noch unterwegs oder in der Botschaft angekommen - müssen wir ihn retten, oder können wir vorher noch in's Kaffeehaus gehen?
+
+## 10.09.2025
+
+### Kintargo Teil 2
+
+* Wir gehen ins Langweg-Kaffeehaus
+  * Elianda, eine Halblingin (kleines Mädchen, das früher )
+* Sedranni's Familie geht's finanziell nicht so gut lt. Elianda
+* Wir beobachten die Abendrot-Importe
+  * Wolfi hört einen Schrei
+  * Wir schleichen uns dorthin
+* Gebäude: 9m hoch
+  * wir hören Mandolinen-Klänge von innen
+* massive Granitsäule, wo eine Mandoline von selbst spielt
+* schaut panisch aus, als ob sie lang nicht mehr geschlafen hat
+* östlichste Tür: wimmern, schluchzend (verschlossene Tür)
+* Wolfi will einen Teppich kaufen
+* Sedranni hat Geschäfte mit den falschen Leuten geschlossen, und die haben ihr Geschäft übernommen
+  * nach Thrune's Sturz hatten sie kein Geld mehr, keine Geschäfte, ...
+  * Blutrote Triade hat angeboten, sie haben Verbindungen nach Katapesch, um Waren zu verkaufen
+    * wirkten seriös
+  * Schreie, magische Beschwörungen, Schwefel, ...
+* zwischendurch Dutzende Leute, aber vor einer halben Stunde, Stunde sind die meisten weggerannt
+  * ständiges Stampfen gehört
+* Wir gehen in den Gang - Lagerraum für unwichtigere Waren
+* Wir sehen einen Dämon, und einen Blutrote-Triade-Offizier
+* _Fabbi_ hängt hier grad ab (schon länger), und wurde gefoltert
+* eine auffällig große Kiste ist ebenfalls im Lagerraum
+  * einige Holzkisten schauen leicht umstoßbar
+* Cold/Earth/Water geht normal gegen den Stole Bulwark
+* _Fabbi_ hat von einem Kommunikationsknoten, einem Versteck und einem Treffpunkt erzählt
+  * Kommunikationsknoten sollen wir zuerst aufsuchen, Nolli ist dort
+  * Treffpunkt - Langweg-Kaffeehaus
+  * Versteck - Mädchenschule
+  * Mitglied des Glockenblumennetzwerks
+  * Nolli ist die Anführerin
+  * befreien Sklaven, schmuggeln sie aus Cheliax und verstecken sie hier
+  * 3 Dutzend Triaden-Leute waren hier
+    * eine Gnollin, Laslunn war ebenfalls hier
+    * rechte Hand: mächtiger Zauberer, Keleshit (Wüstenmensch)
+* wir machen uns mit Sedranni aus, dass wir uns danach wieder treffen
+* wir brechen zum Papierdrachenhügel auf
+* Blutrote Triade siedeln zu einem anderen Versteck in Kintargo, weil das Lagerhaus nicht mehr sicher ist
+* Nolli hat sich einen Code überlegt, wie man mit den Drachen Warnungen/etc. zu verbreiten
+* Langweg-Kaffeehaus hat einen Keller, in dem Sklaven versteckt werden können
+* Mädchenschule ist ein sicheres Versteck, Madam Docur beschützt die Leute da
+* gratis Drachen hier
