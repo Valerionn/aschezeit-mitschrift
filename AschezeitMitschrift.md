@@ -550,7 +550,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   Hat sich auch gut mit Laria vom Kaffeehaus verstanden (hast schon einige verstohlene "Blicke" zwischen ihnen gesehen)
   hast dann den Kontakt zu ihr verloren (weil du sie rausgeschmissen hast?) aber davor habt ihr euch aber super verstanden
   dort hast du dann eben Corra erwischt, wie sie nach dem Einbrauch heimlich mehr als ihren Teil der Beute genommen hat
-  und sie dann weggeschickt + gewarnt, sich von der  Gilde + dir fern zu halten (sie wäre vermutlich eher angepisst auf dich weil sie deine Intention nicht kannte)
+  und sie dann weggeschickt + gewarnt, sich von der Gilde + dir fern zu halten (sie wäre vermutlich eher angepisst auf dich weil sie deine Intention nicht kannte)
 * _Fabbi_ (Halbling): Händlersohn, hat immer gewusst, wo welche Waren unterwegs waren. Kein guter Dieb und geriet schnell in Panik wenn ihr erwischt wurdet
   Hat auch von dir einiges gelernt und dir im Gegenzug das Drachenfliegen beigebracht. Er und Corra haben das immer gern am Drachenhügel gemacht (und du dann vermutlich auch).
   Drachenhügel = nördlich "des Grünen" = Adelsviertel
@@ -764,7 +764,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 ### Kintargo Teil 2
 
 * Wir gehen ins Langweg-Kaffeehaus
-  * Elianda, eine Halblingin (kleines Mädchen, das früher )
+  * _Elianda_, eine Halblingin (kleines Mädchen, das früher ) (_Laria_ ist die Besitzerin)
 * Sedranni's Familie geht's finanziell nicht so gut lt. Elianda
 * Wir beobachten die Abendrot-Importe
   * Wolfi hört einen Schrei
@@ -775,6 +775,7 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
 * schaut panisch aus, als ob sie lang nicht mehr geschlafen hat
 * östlichste Tür: wimmern, schluchzend (verschlossene Tür)
 * Wolfi will einen Teppich kaufen
+* Smibb wird wegen Diebstahl gesucht
 * Sedranni hat Geschäfte mit den falschen Leuten geschlossen, und die haben ihr Geschäft übernommen
   * nach Thrune's Sturz hatten sie kein Geld mehr, keine Geschäfte, ...
   * Blutrote Triade hat angeboten, sie haben Verbindungen nach Katapesch, um Waren zu verkaufen
@@ -789,19 +790,51 @@ Portal hat Steinbogen mit Tieren & Pflanzen. In der Mitte: spiegelglatte "Betonf
   * einige Holzkisten schauen leicht umstoßbar
 * Cold/Earth/Water geht normal gegen den Stole Bulwark
 * _Fabbi_ hat von einem Kommunikationsknoten, einem Versteck und einem Treffpunkt erzählt
-  * Kommunikationsknoten sollen wir zuerst aufsuchen, Nolli ist dort
+  * Kommunikationsknoten sollen wir zuerst aufsuchen, Nolly ist dort
   * Treffpunkt - Langweg-Kaffeehaus
   * Versteck - Mädchenschule
   * Mitglied des Glockenblumennetzwerks
-  * Nolli ist die Anführerin
+  * _Nolly_ ist die Anführerin
   * befreien Sklaven, schmuggeln sie aus Cheliax und verstecken sie hier
   * 3 Dutzend Triaden-Leute waren hier
-    * eine Gnollin, Laslunn war ebenfalls hier
-    * rechte Hand: mächtiger Zauberer, Keleshit (Wüstenmensch)
+    * eine Gnollin, _Laslunn_ war ebenfalls hier
+    * rechte Hand: mächtiger Zauberer, Keleshite (Wüstenmensch)
 * wir machen uns mit Sedranni aus, dass wir uns danach wieder treffen
 * wir brechen zum Papierdrachenhügel auf
 * Blutrote Triade siedeln zu einem anderen Versteck in Kintargo, weil das Lagerhaus nicht mehr sicher ist
-* Nolli hat sich einen Code überlegt, wie man mit den Drachen Warnungen/etc. zu verbreiten
+* Nolly hat sich einen Code überlegt, wie man mit den Drachen Warnungen/etc. zu verbreiten
 * Langweg-Kaffeehaus hat einen Keller, in dem Sklaven versteckt werden können
 * Mädchenschule ist ein sicheres Versteck, Madam Docur beschützt die Leute da
 * gratis Drachen hier
+
+## 24.09.2025
+
+### Der Papierdrachenhügel
+* Wir kommen beim Drachenhügel an
+* Newt sieht "_Nolly_", und erkennt sie als _Corra_ (blonde, längere Haare)
+* _Nolly_ verteilt gratis Drachen
+* Lazgar: Schmetterlinge nein, Schmetterdinge ja
+* Wolfi mag rote Drachen
+* Wir bekommen rote Drachen, um andere Leute zu warnen (rot = Gefahr), purpur = sichere Unterschlüpfe
+* Keleshite: dunkelhäutig, längere Gewänder, Goldschmuck
+* die Stimmung ist sehr gegen Nidal, die Farben sind quasi als Protest gegen Nidal
+* Wolfi macht den Drachen von einem Viech-Ork kaputt
+* "für _Zon-Kuthon_" schreit das komische Insektenwesen (Eisteufel), das uns angreift
+  * Zon-Kuthon = Schutherr von Nidal, Gott der Folter & Schmerz
+* ein beleibter Halbling versteckt sich hinter der Bühne: _Kebb_
+  * ihm ist ein Typ aufgefallen: hochgewachsen, Bard, dunklere Haut, roter Umhang, Handschellen, im Wald versteckt
+  * hat vmtl. den Eisdämon beschworen, und instruiert
+  * Richtung Nachtstraße
+* Glockenblumennetzwerk: Befreit Sklaven aus Cheliax, geben ihnen eine neue Identität
+  * _Corra_ ist die lokale Anführerin in Ravonel/Kintargo
+  * wir lernen eine Geste mit Stichwort "Apfelsprung", um uns als Verbündete auszuweisen
+* wir sagen _Corra_, dass sie nicht die Nidaler beschuldigen soll
+* wir finden in der Nähe einen Ritualkreis (Beschwörung), mit Zeichen am Boden, vmtl. Dimensionstor gecasted von dort zum Hügel rauf
+  * plus Spuren eines großen Mannes, der Richtung Nachtstraße geht, dann weiter Richtung Kintargo
+
+## Zurück zum Langweg-Kaffeehaus
+* Tür kaputt, Wände beschmiert mit "rotem Zeug"
+* random Frau, blutverschmiert rennt raus
+* Blut/Essensreste am Boden
+* Barzillai Thrune's Abbilder schweben auf einmal drinnen als Geist
+* Newt braucht eine Ghost-Touch-Runen-Waffe!
